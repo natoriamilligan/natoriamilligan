@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natoria</h1>
 <h3 align="center">I am currently learning AWS, DevOps, and AI/ML. I also have full stack programming experience!</h3>
 
-<p align="left"> <a href="https://x.com/natoriamilligan" target="blank"><img src="https://img.shields.io/twitter/follow/natoriamilligan?logo=twitter&style=for-the-badge" alt="natoriamilligan" /></a> </p>
+<p align="left"> <a href="https://x.com/natoriamilligan" target="_blank"><img src="https://img.shields.io/twitter/follow/natoriamilligan?logo=twitter&style=for-the-badge" alt="natoriamilligan" /></a> </p>
 
 - 🔭 I’m currently working on a **Banking API**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://x.com/natoriamilligan" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/natoriamilligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natoriamilligan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/natoriamilligan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natoriamilligan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
