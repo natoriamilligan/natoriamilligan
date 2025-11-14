@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://x.com/natoriamilligan" target="_blank"><img src="https://img.shields.io/twitter/follow/natoriamilligan?logo=twitter&style=for-the-badge" alt="natoriamilligan" /></a> </p>
 
-- 🔭 I’m currently working on a **Banking API**
+- 🔭 I’m currently working on **deploying my full stack Banksie app onto AWS**
 
 - 🌱 I’m currently learning **AWS, React, Bootstrap**
 
