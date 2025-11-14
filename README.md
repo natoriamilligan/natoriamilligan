@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, React, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [www.natoria.tech](https://www.natoria.tech)
+- 👨‍💻 All of my projects are available at [www.natoria.tech](https://www.natoria.tech) or on Github
 
 - 📫 How to reach me **natoriamilligan@gmail.com**
 
