@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://x.com/natoriamilligan" target="_blank"><img src="https://img.shields.io/twitter/follow/natoriamilligan?logo=twitter&style=for-the-badge" alt="natoriamilligan" /></a> </p>
 
-- 🔭 I’m currently working on **deploying a full stack Flask app on AWS**
+- 🔭 I’m currently working on **creating the AWS infrastructure for a full tier app using Terraform**
 
 - 🌱 I’m currently learning **AWS services**
 
